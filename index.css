@@ -1,0 +1,141 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+    font-size: 20px;
+    line-height: 2;
+    background-color: rgba(156, 148, 148, 0.911);
+    color: rgba(0, 0, 0, 0.459);
+}
+h1 {
+    margin: 0;
+    font-family: 'pacifrico', cursive;
+    font-weight: bolder;
+    font-size: 100px;
+    color: black;
+}
+h2 {
+    font-family: 'Jomhuria', cursive;
+    font-size: 50px;
+    color: rgb(13, 100, 13);
+}
+h3 {
+    font-family: 'Jomhuria', cursive;
+    font-size: 50px;
+    color: black;
+    margin-bottom: 0;
+    font-weight: normal;
+}
+.topcontianer {
+    background-color: rgb(32, 138, 32);
+    position: relative;
+    padding: 300px;
+}
+.name {
+    text-decoration: underline;
+    
+}
+.bottomcloud {
+    position: absolute;
+    left: 200px;
+    bottom: 300px;
+}
+.topcloud {
+    position: absolute;
+    right: 300px;
+    top: 100px;
+}
+.second {
+    font-weight: normal;
+    font-family: pacifico;
+    font-size: 60px;
+    padding-bottom: 15px;
+}
+.hobby-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.itachi {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.helen {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.quran {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+h3 {
+    margin-bottom: 0;
+    font-weight: normal;
+}
+p {
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+.middle-container {
+    
+    margin: 100px 0;
+}
+
+.bottom-container {
+    background-color: black;
+    padding: 50px 0 20px;
+}
+a {
+ color: rgb(80, 4, 4);
+ margin: 10px 20px;
+ text-decoration: none;
+ color: rgb(13, 100, 13);
+}
+a:hover {
+    color: white;
+}
+.copyright {
+    color: white;
+    font-size: 0.75rem;
+}
+hr.type_10 {
+    border: 0;
+    height: 55px;
+    background-image: url(image/type_10.png);
+    background-repeat: no-repeat;
+    background-color: black ;
+    }
+.message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.btn {
+    background: #1aa152;
+    background-image: -webkit-linear-gradient(top, #1aa152, #071402);
+    background-image: -moz-linear-gradient(top, #1aa152, #071402);
+    background-image: -ms-linear-gradient(top, #1aa152, #071402);
+    background-image: -o-linear-gradient(top, #1aa152, #071402);
+    background-image: linear-gradient(to bottom, #1aa152, #071402);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #596160;
+    background-image: -webkit-linear-gradient(top, #596160, #ede553);
+    background-image: -moz-linear-gradient(top, #596160, #ede553);
+    background-image: -ms-linear-gradient(top, #596160, #ede553);
+    background-image: -o-linear-gradient(top, #596160, #ede553);
+    background-image: linear-gradient(to bottom, #596160, #ede553);
+    text-decoration: none;
+  }
